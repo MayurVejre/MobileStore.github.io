@@ -1,0 +1,101 @@
+*{
+    padding: 1px;
+}
+.navbar{
+    color: white;
+    background-color: black;
+}
+.navlink{
+    color: black;
+    background-color: white;
+}
+.navlink:hover{
+    color: white;
+    background-color: black;
+}
+.navbar-brand{
+ color: white;
+}
+.a{
+    background-color: white;
+    color: black;
+}
+.a:hover{
+    color: white;
+    background-color: grey;
+}
+.btn2{
+    color: black;
+    background-color: white;
+}
+.btn2:hover{
+    color: white;
+    background-color: grey;
+}
+.navitem{
+    background-color: grey;
+}
+.nav-link{
+    color: black;
+    background-color: white;
+}
+.nav-link:hover{
+    color:white;
+    background-color: black;
+}
+.dropdown-item{
+    color: white;
+    background-color: black;
+}
+.dropdown-item:hover{
+    color: black;
+    background-color: white;
+}
+.b{
+    color: black;
+    font-size: 15px;
+}
+.y{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.c{
+    color: black;
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+}
+.d{
+    color: darkblue;
+    background-color: darkcyan;
+}
+.d:hover{
+    color: darkcyan;
+    background-color: darkblue;
+}
+.e{
+    color: grey;
+}
+.card-text{
+    font-weight: bold;
+    font-size: 20px;
+}
+.z{
+    color: black;
+    background-color: lightgray;
+}
+card{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  }
+  .card{
+      border-bottom: 1px;
+      border-top: 1px;
+      border-left: 1px;
+      border-right: 1px;
+  }
+.card:hover{
+    box-shadow: 10px 10px 5px grey;
+  }
