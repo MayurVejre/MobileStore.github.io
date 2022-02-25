@@ -1,0 +1,34 @@
+
+*{
+    padding: 2px;
+    
+}
+.a{
+    font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.b{
+    font-size: medium;
+}
+.c{
+    
+    font-size: 25px;
+}
+.d{
+    color: grey;
+}
+.e{
+    color: black;
+    font-size: medium ;
+}
+.btn1{
+    background-color: orange;
+    color: white;
+    height: 50px;
+}
+.btn2{
+    background-color: yellow;
+    color: white;
+    height: 50px;
+    font-weight: 30px;
+}

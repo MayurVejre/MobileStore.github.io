@@ -1,0 +1,70 @@
+*{
+    padding: 1px;
+}
+
+.navbar{
+    color: white;
+    background-color:blue;
+}
+.nav-link{
+    color: black;
+    background-color: white;
+}
+.nav-link:hover{
+    color: white;
+    background-color:black;
+}
+.navbar-brand{
+    color: black;
+}
+.btn3{
+    color: darkblue;
+    background-color: lightblue;
+}
+.btn3:hover{
+    color: lightblue;
+    background-color: darkblue;
+    align-items: center;
+}
+.btn4{
+    color: lightblue;
+    background-color: darkblue;
+}
+
+.btn4:hover{
+    color: darkblue;
+    background-color: lightblue;
+}
+.btn5{
+    color: blue;
+    background-color: transparent;
+}
+h5{
+    color: white;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: white;
+    font-size: 70px;
+}
+.card-title{
+    color: black;
+}
+.list-group-item{
+    color: black;
+}
+.card-text{
+    color: black;
+    font-size: 13px;
+}
+.card{
+    font-size: 20px;
+    color: black;
+}
+.card:hover{
+    box-shadow: -3px 10px 13px -1px rgba(0,0,0,0.74);
+-webkit-box-shadow: -3px 10px 13px -1px rgba(0,0,0,0.74);
+-moz-box-shadow: -3px 10px 13px -1px rgba(0,0,0,0.74);
+transform: translateY(10px);
+}
